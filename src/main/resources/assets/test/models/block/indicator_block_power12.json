@@ -1,0 +1,6 @@
+{
+  "parent": "test:block/indicator_block",
+  "textures": {
+    "indicator_front": "test:blocks/indicator_front_12"
+  }
+}
