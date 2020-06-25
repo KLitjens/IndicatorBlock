@@ -27,7 +27,7 @@ public class IndicatorBlock extends Block {
     //public static final IntegerProperty POWER = BlockStateProperties.POWER_0_15;
     //public static final BooleanProperty POWERED = BlockStateProperties.POWERED;
     public static final IntegerProperty POWER = BlockStateProperties.POWER_0_15;
-    public static final DirectionProperty FACING = BlockStateProperties.FACING
+    public static final DirectionProperty FACING = BlockStateProperties.FACING;
     private boolean canProvidePower = true;
     private final Set<BlockPos> blocksNeedingUpdate = Sets.newHashSet();
 
